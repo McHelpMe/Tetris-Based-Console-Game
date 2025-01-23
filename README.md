@@ -50,4 +50,9 @@ python tetris.py
  * Enter `1` for **Classic Mode**
  * Enter `2` for **Chaos Mode**
 #### 3. Game Controls
+  * `a`: Move piece left.<br>
+  * `d`: Move piece right.<br>
+  * `w`: Rotate piece.<br>
+  * `s`: Drop piece faster.<br>
+  * `q`: Quit the game.<br>
 
