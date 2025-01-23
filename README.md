@@ -9,7 +9,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
 #### 2. Frenzy Mode
    * **Random Rotations**: Tetrominoes may rotate unexpectedly.
    * **Random Grid Modifications**: Rows may randomly fill with blocks or be cleared.
-   * **Variable Speed**: The fall speed changes unpredictably, keeping players on their toes.
+   * **Changing Speed**: The fall speed changes unpredictably, keeping players on their toes.
 
 ### Additional Features
 * **Score Tracking**: Points are awarded for clearing rows, with higher scores achieved by clearing multiple rows at once.
@@ -77,3 +77,6 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     Your Score: 250
     New High Score: 250
     ```
+
+##Contact
+[Send an Email](mailto:email@example.com)
