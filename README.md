@@ -42,4 +42,8 @@ python tetris.py
 ```
 
 ## How to Play
-#### ?
+1. **Launch the Game**: Run the script in your terminal:
+```bash
+python tetris.py
+```
+
