@@ -81,4 +81,4 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
  * When Using the controls too fast may bug out the blocks (Especially in **Frenzy Mode**)
 
 ## Contact<br>
-* [Send an Email](mailto:email@example.com)
+* [Send an Email](mailto:sorianojustin05@gmail.com)
