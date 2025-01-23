@@ -63,3 +63,6 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
 ### 1. Clearing Lines
   * Complete rows to clear them and earn points.
   * The more lines you clear at once, the higher the score (e.g., Tetris for 4 lines).
+### 2. Difficulty
+  * As you clear lines, the falling speed increases.
+  * **Frenzy Mode** adds random events like shape rotations or speed changes.
