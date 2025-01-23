@@ -40,3 +40,6 @@ cd tetris-console-game
 ```bash
 python tetris.py
 ```
+
+## How to Play
+#### ?
