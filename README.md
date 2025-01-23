@@ -6,4 +6,12 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
 ### Game Modes
 1. Classic Mode
    * Traditional Tetris gameplay where players move, rotate, and drop Tetrominoes to clear rows and score points.
+2. Frenzy Mode
+   * **Random Rotations**: Tetrominoes may rotate unexpectedly.
+   * **Random Grid Modifications**: Rows may randomly fill with blocks or be cleared.
+   * **Variable Speed**: The fall speed changes unpredictably, keeping players on their toes.
+
+### Additional Features
+* **Score Tracking**: Points are awarded for clearing rows, with higher scores achieved by clearing multiple rows at once.
+* **High Score Persistence**: High scores are saved in a local file (high_score.txt) and persist across game sessions.
      
