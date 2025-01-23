@@ -24,3 +24,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
 ## Installation
 ### Requirements
  * Python 3.6 or higher
+### Setup Instructions
+ 1.Clone the repository or download the game script:
+ ```bash
+git clone https://github.com/yourusername/tetris-console-game.git
