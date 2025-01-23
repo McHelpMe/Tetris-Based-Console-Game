@@ -3,7 +3,6 @@ import random
 import os
 import time
 
-# Constants
 GRID_HEIGHT = 20
 GRID_WIDTH = 10
 SHAPES = [
