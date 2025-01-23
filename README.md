@@ -48,7 +48,7 @@ python tetris.py
 ```
 #### 2. Select a Mode
  * Enter `1` for **Classic Mode**
- * Enter `2` for **Chaos Mode**
+ * Enter `2` for **Frenzy Mode**
 #### 3. Game Controls
   * `a`: Move piece left.<br>
   * `d`: Move piece right.<br>
