@@ -25,25 +25,26 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
 ### Requirements
  * Python 3.6 or higher
 ### Setup Instructions
- 1. Clone the repository or download the game script:
+#### 1. Clone the repository or download the game script:
  ```bash
 git clone https://github.com/McHelpMe/Tetris-Based-Console-Game.git
  ```
 Alternatively, [download TetrisGame.py](https://github.com/McHelpMe/Tetris-Based-Console-Game/blob/main/TetrisGame.py).
 
-2. Navigate to the project directory:
+#### 2. Navigate to the project directory:
 ```bash
 cd tetris-console-game
 ```
 
-3. Run the script:
+#### 3. Run the script:
 ```bash
 python tetris.py
 ```
 
 ## How to Play
-1. **Launch the Game**: Run the script in your terminal:
+#### 1. **Launch the Game**: Run the script in your terminal:
 ```bash
 python tetris.py
 ```
+#### 2. Select a Mode
 
