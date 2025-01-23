@@ -60,9 +60,16 @@ python tetris.py
 ### Objective
 The goal is to clear as many lines as possible by arranging falling shapes (tetrominoes) in a grid. Lines are cleared when they are completely filled, earning you points. The game ends when the grid fills up and no more shapes can fit.
 
-### 1. Clearing Lines
+#### 1. Clearing Lines
   * Complete rows to clear them and earn points.
   * The more lines you clear at once, the higher the score (e.g., Tetris for 4 lines).
-### 2. Difficulty
+#### 2. Difficulty
   * As you clear lines, the falling speed increases.
   * **Frenzy Mode** adds random events like shape rotations or speed changes.
+
+### Game Over & High Score
+  * The game ends when the grid is full and no more shapes can fall.
+  * If your score beats the high score, it will be saved to `high_score.txt`.
+  * On subsequent plays, the game will display the current high score, and if you break it, you'll be congratulated!
+    Example
+  
