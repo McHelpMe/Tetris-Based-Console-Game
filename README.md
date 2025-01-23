@@ -29,7 +29,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
  ```bash
 git clone https://github.com/yourusername/tetris-console-game.git
  ```
-Alternatively, download the script directly as `tetris.py`.
+Alternatively, [download TetrisGame.py](https://github.com/McHelpMe/Tetris-Based-Console-Game/blob/main/TetrisGame.py).
 
 2. Navigate to the project directory:
 ```bash
