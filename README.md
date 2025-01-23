@@ -57,4 +57,4 @@ python tetris.py
   * `q`: Quit the game.<br>
 
 #### 4. Objective:
-   Form horizontal lines of blocks without gaps. Each complete row clears and adds points to your score.
+   * Form horizontal lines of blocks without gaps. Each complete row clears and adds points to your score.
