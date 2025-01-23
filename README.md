@@ -8,7 +8,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
    * Traditional Tetris gameplay where players move, rotate, and drop Tetrominoes to clear rows and score points.
 #### 2. Frenzy Mode
    * **Random Rotations**: Tetrominoes may rotate unexpectedly.
-   * **Random Grid Modifications**: Rows may randomly fill with blocks or be cleared.
+   * **Rising Bottom**: The Rising Bottom feature adds a row at the top after clearing a power-of-2 number of lines (1, 2, 4, 8, etc.), pushing blocks down and increasing difficulty.
    * **Changing Speed**: The fall speed changes unpredictably, keeping players on their toes.
 
 ### Additional Features
@@ -59,7 +59,6 @@ python tetris.py
 ## How the Game Works 
 ### Objective
 The goal is to clear as many lines as possible by arranging falling shapes (tetrominoes) in a grid. Lines are cleared when they are completely filled, earning you points. The game ends when the grid fills up and no more shapes can fit.
-(The game involves ALOT of pressing of wasd and enter)
 
 #### 1. Clearing Lines
   * Complete rows to clear them and earn points.
@@ -78,7 +77,5 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     Your Score: 250
     New High Score: 250
     ```
-
-
 ## Contact<br>
 * [Send an Email](mailto:email@example.com)
