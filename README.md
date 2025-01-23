@@ -78,5 +78,5 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     New High Score: 250
     ```
 
-##Contact
+##Contact<br>
 [Send an Email](mailto:email@example.com)
