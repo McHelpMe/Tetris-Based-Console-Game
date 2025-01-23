@@ -8,7 +8,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
    * Traditional Tetris gameplay where players move, rotate, and drop Tetrominoes to clear rows and score points.
 #### 2. Frenzy Mode
    * **Random Rotations**: Tetrominoes may rotate unexpectedly.
-   * **Rising Bottom**: The Rising Bottom feature adds a row at the top after clearing a power-of-2<b> number of lines (1, 2, 4, 8, etc.), pushing blocks down and increasing difficulty.
+   * **Rising Bottom**: The Rising Bottom feature adds a row at the top after clearing a power-of-2<br> number of lines (1, 2, 4, 8, etc.), pushing blocks down and increasing difficulty.
    * **Changing Speed**: The fall speed changes unpredictably, keeping players on their toes.
 
 ### Additional Features
