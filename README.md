@@ -21,4 +21,6 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
   s: Drop piece faster.<br>
   q: Quit the game.<br>
 
-     
+## Installation
+### Requirements
+ * Python 3.6 or higher
