@@ -79,4 +79,4 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     ```
 
 ## Contact<br>
-[Send an Email](mailto:email@example.com)
+* [Send an Email](mailto:email@example.com)
