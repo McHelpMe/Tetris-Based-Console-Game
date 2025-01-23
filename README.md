@@ -71,5 +71,9 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
   * The game ends when the grid is full and no more shapes can fall.
   * If your score beats the high score, it will be saved to `high_score.txt`.
   * On subsequent plays, the game will display the current high score, and if you break it, you'll be congratulated!
-    Example
-  
+  * Example:
+    ```bash
+    Game Over!
+    Your Score: 250
+    New High Score: 250
+    ```
