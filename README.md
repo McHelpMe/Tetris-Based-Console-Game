@@ -59,3 +59,7 @@ python tetris.py
 ## How the Game Works 
 ### Objective
 The goal is to clear as many lines as possible by arranging falling shapes (tetrominoes) in a grid. Lines are cleared when they are completely filled, earning you points. The game ends when the grid fills up and no more shapes can fit.
+
+### 1. Clearing Lines
+       * Complete rows to clear them and earn points.
+       * The more lines you clear at once, the higher the score (e.g., Tetris for 4 lines).
