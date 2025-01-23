@@ -14,7 +14,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
 ### Additional Features
 * **Score Tracking**: Points are awarded for clearing rows, with higher scores achieved by clearing multiple rows at once.
 * **High Score Persistence**: High scores are saved in a local file (high_score.txt) and persist across game sessions.
-* Interactive Console Controls:<br>
+* **Interactive Console Controls**:<br>
   `a`: Move piece left.<br>
   `d`: Move piece right.<br>
   `w`: Rotate piece.<br>
@@ -47,4 +47,6 @@ python tetris.py
 python tetris.py
 ```
 #### 2. Select a Mode
+ * Enter `1` for **Classic Mode**
+ * Enter `2` for **Chaos Mode**
 
