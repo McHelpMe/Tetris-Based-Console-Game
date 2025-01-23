@@ -25,11 +25,11 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
 ### Requirements
  * Python 3.6 or higher
 ### Setup Instructions
-#### 1. Clone the repository or download the game script:
+#### 1. You can either clone the repository using Git:
  ```bash
 git clone https://github.com/McHelpMe/Tetris-Based-Console-Game.git
  ```
-Alternatively, [download TetrisGame.py](https://github.com/McHelpMe/Tetris-Based-Console-Game/blob/main/TetrisGame.py).
+Or download the script directly by clicking[here](https://github.com/McHelpMe/Tetris-Based-Console-Game/blob/main/TetrisGame.py).
 
 #### 2. Navigate to the project directory:
 ```bash
@@ -78,5 +78,5 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     New High Score: 250
     ```
 
-##Contact<br>
+## Contact<br>
 [Send an Email](mailto:email@example.com)
