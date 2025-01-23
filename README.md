@@ -56,5 +56,5 @@ python tetris.py
   * `s`: Drop piece faster.<br>
   * `q`: Quit the game.<br>
 
-#### 4. Objective:
-   * Form horizontal lines of blocks without gaps. Each complete row clears and adds points to your score.
+## How the Game Works 
+#### Objective
