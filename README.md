@@ -73,7 +73,7 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
   * On subsequent plays, the game will display the current high score, and if you break it, you'll be congratulated!
   * Example:
     ```bash
-    Game Over !
+    Game Over!
     Your Score: 250
     New High Score: 250
     ```
