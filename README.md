@@ -33,12 +33,12 @@ Or download the script directly by clicking [here](https://github.com/McHelpMe/T
 
 #### 2. Navigate to the project directory:
 ```bash
-cd tetris-console-game
+cd Tetris-Based-Console-Game
 ```
 
 #### 3. Run the script:
 ```bash
-python tetris.py
+python TetrisGame.py
 ```
 
 ## How to Play
