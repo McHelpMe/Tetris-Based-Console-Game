@@ -95,6 +95,46 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     * Random Tetromino rotations.
     * Dynamic speed changes.
     * Initial prototype of the rising bottom feature.
+  * Added a main menu for mode selection.
+
+ ### Version 0.4 - Gameplay Improvements
+  * Fixed a bug where blocks appeared outside the grid.
+  * Improved collision detection for moving and rotating Tetrominoes.
+  * Updated Rising Bottom feature to activate only after clearing a power-of-2 number of lines (1, 2, 4, etc.).
+  * Displayed event messages for Frenzy Mode twists.
+
+ ### Version 0.5 - Bug Fixes and Tweaks
+  * Fixed an `IndexError` when blocks spawned partially outside the grid.
+  * Added logic to delete out-of-bounds blocks and replace them with new ones at the top center of the grid.
+  * Ensured Frenzy Mode events occur consistently
+
+ ### Version 0.6 - Visual and Gameplay Enhancements
+  * Refined the grid display for better readability in the console.
+  * Added animations (via `time.sleep`) for falling Tetrominoes.
+  * Improved feedback for Frenzy Mode events (e.g., "Twist Event: Speed Change").
+
+ ### Version 0.7 - Automatic Frame Progression
+  * Introduced optional automatic frame updates for smoother gameplay.
+  * Added fall speed adjustments to balance gameplay between Classic and Frenzy modes
+
+ ### Version 0.8 - Polishing Features
+  * Improved the Rising Bottom feature to ensure consistent behavior.
+  * Fixed a bug where the game would incorrectly end if blocks overlapped during spawning.
+
+ ### Version 0.9 - Final Bug Fixes
+  * Fixed an issue where Frenzy Mode events would occasionally conflict, causing unexpected behaviors.
+  * Resolved a problem where the game would immediately end if blocks spawned outside the grid.
+  * Optimized event-triggering logic for Frenzy Mode.
+
+ ### Version 1.0 - Complete Release
+  * Finalized Classic Mode and Frenzy Mode with balanced difficulty.
+  * Added comprehensive comments to the code for clarity without revealing sensitive details.
+  * Ensured all known bugs and edge cases are addressed:
+    * Prevented blocks from spawning outside the grid.
+    * Stabilized Frenzy Mode events and rising bottom mechanics.
+    * Guaranteed seamless gameplay in both modes.
+  * Added a detailed README and updated game description to include all features and controls.
+
 
 
 ## Issues 
