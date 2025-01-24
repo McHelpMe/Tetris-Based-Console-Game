@@ -79,7 +79,11 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     ```
 
 ## Changelog 
- ### *
+ ### Version 0.1 - Initial Release
+    * Basic Classic Mode implemented.
+    * Added grid rendering and Tetromino shapes (Line, Square, T, Z, S).
+    * Basic movement controls: `a` (left), `d` (right), `w` (rotate), `s` (drop).
+
 ## Issues 
  * When Using the controls too fast may bug out the blocks (Especially in **Frenzy Mode**)
 
