@@ -80,9 +80,16 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
 
 ## Changelog 
  ### Version 0.1 - Initial Release
-    * Basic Classic Mode implemented.
-    * Added grid rendering and Tetromino shapes (Line, Square, T, Z, S).
-    * Basic movement controls: `a` (left), `d` (right), `w` (rotate), `s` (drop).
+  * Basic Classic Mode implemented.
+  * Added grid rendering and Tetromino shapes (Line, Square, T, Z, S).
+  * Basic movement controls: `a` (left), `d` (right), `w` (rotate), `s` (drop).
+  * Line-clearing functionality with scoring.
+
+ ### Version 0.2 - Score Tracking and Persistence
+  * Added score tracking to calculate points based on rows cleared.
+  * Implemented high score persistence using high_score.txt.
+  * Displayed current score and high score during gameplay.
+
 
 ## Issues 
  * When Using the controls too fast may bug out the blocks (Especially in **Frenzy Mode**)
