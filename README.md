@@ -90,6 +90,12 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
   * Implemented high score persistence using high_score.txt.
   * Displayed current score and high score during gameplay.
 
+ ### Version 0.3 - Frenzy Mode Prototype
+  * Introduced Frenzy Mode with random events:
+    * Random Tetromino rotations.
+    * Dynamic speed changes.
+    * Initial prototype of the rising bottom feature.
+
 
 ## Issues 
  * When Using the controls too fast may bug out the blocks (Especially in **Frenzy Mode**)
