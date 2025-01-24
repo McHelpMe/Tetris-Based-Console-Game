@@ -79,54 +79,54 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     ```
 
 ## Changelog 
- #### Version 0.1 - Initial Release
+ ### Version 0.1 - Initial Release
   * Basic Classic Mode implemented.
   * Added grid rendering and Tetromino shapes (Line, Square, T, Z, S).
   * Basic movement controls: `a` (left), `d` (right), `w` (rotate), `s` (drop).
   * Line-clearing functionality with scoring.
 
- #### Version 0.2 - Score Tracking and Persistence
+ ### Version 0.2 - Score Tracking and Persistence
   * Added score tracking to calculate points based on rows cleared.
   * Implemented high score persistence using high_score.txt.
   * Displayed current score and high score during gameplay.
 
- #### Version 0.3 - Frenzy Mode Prototype
+ ### Version 0.3 - Frenzy Mode Prototype
   * Introduced Frenzy Mode with random events:
     * Random Tetromino rotations.
     * Dynamic speed changes.
     * Initial prototype of the rising bottom feature.
   * Added a main menu for mode selection.
 
- #### Version 0.4 - Gameplay Improvements
+ ### Version 0.4 - Gameplay Improvements
   * Fixed a bug where blocks appeared outside the grid.
   * Improved collision detection for moving and rotating Tetrominoes.
   * Updated Rising Bottom feature to activate only after clearing a power-of-2 number of lines (1, 2, 4, etc.).
   * Displayed event messages for Frenzy Mode twists.
 
- #### Version 0.5 - Bug Fixes and Tweaks
+ ### Version 0.5 - Bug Fixes and Tweaks
   * Fixed an `IndexError` when blocks spawned partially outside the grid.
   * Added logic to delete out-of-bounds blocks and replace them with new ones at the top center of the grid.
   * Ensured Frenzy Mode events occur consistently
 
- #### Version 0.6 - Visual and Gameplay Enhancements
+ ### Version 0.6 - Visual and Gameplay Enhancements
   * Refined the grid display for better readability in the console.
   * Added animations (via `time.sleep`) for falling Tetrominoes.
   * Improved feedback for Frenzy Mode events (e.g., "Twist Event: Speed Change").
 
- #### Version 0.7 - Automatic Frame Progression
+ ### Version 0.7 - Automatic Frame Progression
   * Introduced optional automatic frame updates for smoother gameplay.
   * Added fall speed adjustments to balance gameplay between Classic and Frenzy modes
 
- #### Version 0.8 - Polishing Features
+ ### Version 0.8 - Polishing Features
   * Improved the Rising Bottom feature to ensure consistent behavior.
   * Fixed a bug where the game would incorrectly end if blocks overlapped during spawning.
 
- #### Version 0.9 - Final Bug Fixes
+ ### Version 0.9 - Final Bug Fixes
   * Fixed an issue where Frenzy Mode events would occasionally conflict, causing unexpected behaviors.
   * Resolved a problem where the game would immediately end if blocks spawned outside the grid.
   * Optimized event-triggering logic for Frenzy Mode.
 
- #### Version 1.0 - Complete Release
+ ### Version 1.0 - Complete Release
   * Finalized Classic Mode and Frenzy Mode with balanced difficulty.
   * Added comprehensive comments to the code for clarity without revealing sensitive details.
   * Ensured all known bugs and edge cases are addressed:
