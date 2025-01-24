@@ -77,6 +77,9 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
     Your Score: 250
     New High Score: 250
     ```
+
+## Changelog 
+ ### *
 ## Issues 
  * When Using the controls too fast may bug out the blocks (Especially in **Frenzy Mode**)
 
