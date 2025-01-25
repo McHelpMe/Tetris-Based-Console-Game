@@ -20,6 +20,7 @@ A simple yet engaging console-based Tetris game written in Python, featuring two
   * `w`: Rotate piece.<br>
   * `s`: Drop piece faster.<br>
   * `q`: Quit the game.<br>
+* **Automatic Updates**: The game now updates frames automatically without requiring constant input, allowing smooth gameplay even without user commands.
 
 ## Installation
 ### Requirements
@@ -137,8 +138,18 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
 
 
 
-## Issues 
- * When Using the controls too fast may bug out the blocks (Especially in **Frenzy Mode**)
+## Possible Issues/Errors
+ * **Race conditions in Frenzy Mode**: Rapid events might lead to glitches.
+ * **Block collision edge cases**: Blocks may misalign at grid edges.
+ * **Grid overflow during Rising Bottom**: Adding rows when the grid is nearly full may not gracefully trigger game-over.
+ * **Timing desynchronization**: Auto-updates may conflict with user inputs.
+ * ** Performance issues**: Slower systems may experience delays or lag.
+ * **Input responsiveness at high speeds**: Inputs might not register consistently.
+ * **Save file corruption**: Manual tampering with `high_score.txt` can cause crashes.
+ * **Unexpected grid behavior**: Misuse of controls or manual rotation can lead to blocks behaving oddly.
+
+
+
 
 ## Contact<br>
 * [Send an Email](mailto:sorianojustin05@gmail.com)
