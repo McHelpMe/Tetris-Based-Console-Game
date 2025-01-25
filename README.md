@@ -143,7 +143,7 @@ The goal is to clear as many lines as possible by arranging falling shapes (tetr
  * **Block collision edge cases**: Blocks may misalign at grid edges.
  * **Grid overflow during Rising Bottom**: Adding rows when the grid is nearly full may not gracefully trigger game-over.
  * **Timing desynchronization**: Auto-updates may conflict with user inputs.
- * ** Performance issues**: Slower systems may experience delays or lag.
+ * **Performance issues**: Slower systems may experience delays or lag.
  * **Input responsiveness at high speeds**: Inputs might not register consistently.
  * **Save file corruption**: Manual tampering with `high_score.txt` can cause crashes.
  * **Unexpected grid behavior**: Misuse of controls or manual rotation can lead to blocks behaving oddly.
